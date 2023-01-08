@@ -12,6 +12,8 @@ About game: Pull an object and try hitting the enemies. The enemies include mosq
 
 GameCanvas version: 6.1.2
 
+Editor version: 2020.3.33f1
+
 Got the background as a free image from this website https://www.photo-ac.com 
 
 
@@ -35,3 +37,4 @@ PRポイント：アイテムが豊富。蚊のHPやスピードがバラバラ
 
 備考：背景はフリー素材から引っ張て来た。https://www.photo-ac.com より
 
+![Image of the game](/game.jpg)
